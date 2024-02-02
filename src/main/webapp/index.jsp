@@ -18,7 +18,7 @@
         }
 
         nav {
-            background-color: #444;
+            background-color: red;
             color: #fff;
             padding: 10px;
         }
