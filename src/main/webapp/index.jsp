@@ -70,7 +70,7 @@
         <ul>
             <li><a href="#">Login</a></li>
             <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">Contact me</a></li>
         </ul>
     </nav>
 
