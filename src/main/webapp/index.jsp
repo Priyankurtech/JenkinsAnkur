@@ -83,7 +83,7 @@
         <section>
             <h2>Contact Us</h2>
             <p>Email: example@example.com</p>
-            <p>Phone: +123 456 789</p>
+            <p>Phone: 8145160101</p>
         </section>
     </main>
 
